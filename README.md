@@ -25,6 +25,8 @@ If you would like to use the dark theme included in ``priv``, you will also need
 * ``gtk2-engines``
 * ``gtk2-engines-pixbuf``
 
+Erlang and LFE-specific dependencies will be downloaded automatically when running ``make``.
+
 
 ## Building
 
