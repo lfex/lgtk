@@ -52,6 +52,8 @@ This library attempts to provide LFE hackers with a natural-feeling API (one tha
 
 ## Dependencies [&#x219F;](#contents)
 
+ℓGTK has the following system dependencies:
+
 * Erlang
 * ``rebar``
 * GNU ``make``
@@ -67,6 +69,7 @@ Erlang and LFE-specific dependencies will be downloaded automatically when runni
 
 ## Building [&#x219F;](#contents)
 
+Simply run the following in your ``clone``d directory (after you have the system dependencies installed):
 ```bash
 $ make
 ```
