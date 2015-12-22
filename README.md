@@ -90,5 +90,5 @@ TBD
 
 There are two sources of documentation -- both also works in progress -- for ℓGTK:
 
-* The [LFE GTK example project repo](https://github.com/oubiwann/lfe-gtknode-example)
-* The [ℓGTK Tutorial GitBook](https://lfe.gitbooks.io/gtk2-tutorial/content/)
+* The [LFE GTK example project](https://github.com/oubiwann/lfe-gtknode-example) repo
+* The [ℓGTK Tutorial](https://lfe.gitbooks.io/gtk2-tutorial/content/) GitBook
