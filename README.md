@@ -1,4 +1,4 @@
-# lgtk
+# ℓGTK
 
 
 [![][lgtk-logo]][lgtk-logo-large]
