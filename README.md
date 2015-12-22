@@ -30,7 +30,7 @@ Or: *Why create a wrapper?* The answer to this is quite simple: though the use o
 Here is an example call using gtknode:
 
 ```cl
-(! name `#(,(self) (#(Gtk_statusbar_push `(,widget-id ,sb-stx-id "Connected"))))
+(! name `#(,(self) (#(Gtk_statusbar_push `(statusbar1 ,sb-stx-id "Connected"))))
 (receive
  (`#(,name #(reply (#(ok ,rep)y))))
  reply)
