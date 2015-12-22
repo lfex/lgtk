@@ -16,7 +16,7 @@
 * [Dependencies](#dependencies-)
 * [Building](#building-)
 * [Usage](#usage-)
-
+* [Documentation](#documentation-)
 
 ## Introduction [&#x219F;](#contents)
 
@@ -84,3 +84,11 @@ This will:
 ## Usage [&#x219F;](#contents)
 
 TBD
+
+
+## Documentation [&#x219F;](#contents)
+
+There are two sources of documentation -- both also works in progress -- for ℓGTK:
+
+* The [LFE GTK example project repo](https://github.com/oubiwann/lfe-gtknode-example)
+* The [ℓGTK Tutorial GitBook](https://lfe.gitbooks.io/gtk2-tutorial/content/)
