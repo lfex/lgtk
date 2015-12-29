@@ -12,11 +12,13 @@
 
 * [Introduction](#introduction-)
   * [ℓGTK vs. gtknode](#ℓgtk-vs-gtknode-)
+  * [Modules](#modules-)
   * [Caveat](#caveat-)
 * [Dependencies](#dependencies-)
 * [Building](#building-)
 * [Usage](#usage-)
 * [Documentation](#documentation-)
+
 
 ## Introduction [&#x219F;](#contents)
 
@@ -43,6 +45,17 @@ Here is the same call in ℓGTK:
 ```
 
 This library attempts to provide LFE hackers with a natural-feeling API (one that closely mirros the APIs in other GTK language bindings) for creating GTK apps that run on the Erlang VM.
+
+
+### Modules [&#x219F;](#contents)
+
+ℓGTK modules are named using a "dotted" notation that is meant to provide a context to the developer; there are no such things as packages or sub-packages in LFE or Erlang, so this notatation does not signify any underlying structure.
+
+ℓGTK modules are grouped into the following, by name:
+
+* <strong>gtk.*</strong> modules - These correlate directly to GTK+ classes
+* <strong>gn.*</strong> modules - These are wrappers for gtknode-specific functions
+* <strong>lgtk.*</strong> modules - These are ℓGTK-specific functions (e.g., the ``gen_server``)
 
 
 ### Caveat [&#x219F;](#contents)
