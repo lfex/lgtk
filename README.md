@@ -22,7 +22,7 @@
 
 ## Introduction [&#x219F;](#contents)
 
-As od as it may seem, LFE and GTK are actually a very good combination. LFE is a language that runs on a VM that was built to support highly-concurrent communications betewen native (Erlang/BEAM) and non-native (Ports) code. Due to its inherent message passing, LFE supports asynchronous calls. In addition to generic software servers, LFE also supports event servers -- both are useful integrating with GUI main loops and managing signals. Furthermore, due to LFE's support of distribution, it is possible to create GTK GUIs that manage or interact with light-weight language processes that run on multiple cores or even on remote systems.
+As odd as it may seem, LFE and GTK are actually a very good combination. LFE is a language that runs on a VM that was built to support highly-concurrent communications betewen native (Erlang/BEAM) and non-native (Ports) code. Due to its inherent message passing, LFE supports asynchronous calls. In addition to generic software servers, LFE also supports event servers -- both are useful integrating with GUI main loops and managing signals. Furthermore, due to LFE's support of distribution, it is possible to create GTK GUIs that manage or interact with light-weight language processes that run on multiple cores or even on remote systems.
 
 
 ### ℓGTK vs. gtknode [&#x219F;](#contents)
